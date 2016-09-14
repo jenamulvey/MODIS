@@ -40,7 +40,7 @@ for (i in 01:12) {
   tmp.dir    = "./"
   MRTpath    = "/usr/local/mrt/bin"
   username   = "yzhan"
-  pwd        = "1993912Zyn"
+  pwd        = "xxxxxxxxxxxx" #set up your own account 
   
   #download
   files = modis.download( product=product, 
